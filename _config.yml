@@ -1,0 +1,9 @@
+title: "Ahmad Muzhaffar |  Data Analyst"
+author: "Ahmad Muzhaffar"
+description: "Data Analytics Portfolio — SQL, Excel & Google Sheet Formulas, Looker Studio, and Business Strategy"
+theme: minima
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
